@@ -1,5 +1,11 @@
 ### Olá sou o Igor Almeida Marques
 
+Sou estudante do primeiro ano de Análise e Desenvolvimento de Sistemas na faculdade Anhembi Morumbi, já estudava e praticava programação previamente e decidi iniciar uma graduação na área, pretendendo tornar-me um desenvolvedor.
+
+Atualmente meu trabalho é remoto e no meu tempo livre estudo e desenvolvo minhas habilidades em Python l Django l HTML l CSS l Javascript l Typescript l React l NodeJS l RESTful APIs l Git l Github l Programação Orientada a Objetos
+
+
+
 ##
 
 <div align="center">
