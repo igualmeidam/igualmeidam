@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<h3>
+<h3 align="left">
   Linkedin:
   <a href="https://www.linkedin.com/in/igualmeidam/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="50">
