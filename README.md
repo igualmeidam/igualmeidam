@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Anhembi Morumbi, já estudava e praticava programação previamente e decidi iniciar uma graduação na área.
 
-Atualmente trabalho remotamente como analista de BI na Hurb desenvolvendo minhas habilidades em Python l SQL l Estatística. Por possuir interesse na área de desenvolvimento de software no meu tempo livre estudo e desenvolvo minhas em habilidades em Django l HTML l CSS l Javascript l Typescript l React l RESTful APIs l Git l Github l Programação Orientada a Objetos
+Atualmente trabalho remotamente como analista de BI na Hurb desenvolvendo minhas habilidades em Python l SQL . Por possuir interesse na área de desenvolvimento de software no meu tempo livre estudo e desenvolvo minhas em habilidades em Django l HTML l CSS l Javascript l Typescript l React l RESTful APIs l Git l Github l Programação Orientada a Objetos
 
 Meu perfil GitHub: https://github.com/igualmeidam
 
